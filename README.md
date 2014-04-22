@@ -1,0 +1,4 @@
+combinatorics
+=============
+
+generates combination mCn
